@@ -10,23 +10,6 @@ I enjoy learning low-level programming concepts, optimizing code for performance
 - 🛠 Core expertise: Systems programming fundamentals, Linux basics, concurrency concepts, networking fundamentals, performance awareness, and applied data structures  
 ---
 
-## Tech Stack
-**Languages & Systems**
-- C, C++, Python, Java,  
-- Bash / Shell scripting for automation  
-- JavaScript, TypeScript, HTML, CSS 
-
-**Frameworks & Tools**
-- Node.js, Django, Spring Boot, React, Flutter  
-- Docker, GitHub Actions, basic Kubernetes  
-- Databases: PostgreSQL, MongoDB, Redis, MySQL
-
-**Operating Systems & Development**
-- Linux (Ubuntu, basic administration)  
-- Git version control, Make/CMake, debugging with gdb/lldb
-
----
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Jemimah-Silwamba-14b3b62b0) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bis21-jsilwamba@mubas.ac.mw) 
 
